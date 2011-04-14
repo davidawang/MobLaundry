@@ -1,6 +1,8 @@
 # mobLaundry
 
-Made during PennApps, winner of best Twilio App. Visit <http://www.moblaundry.com/penn> on your mobile device or <http://www.youtube.com/watch?v=cUaYJQ3XS2w> for the video demo.
+* Made during PennApps, winner of best Twilio App. 
+* Visit <http://www.moblaundry.com/penn> on your mobile device
+* Visit <http://www.youtube.com/watch?v=cUaYJQ3XS2w> for the video demo.
 
 ##Features
 * Text via your phone to find out which laundry machines are free
