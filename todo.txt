@@ -1,0 +1,10 @@
+Moblaundry Rewrite Tasks:
+
+1. Fetch info from laundryalert.com Using Node.io or jquery.
+	- store it in a database (mysql, mongodb, riak)
+2. Model out data (schools, washer, dryer, etc)
+3. Twilio API integration/parser for texting
+4. queue (kue in node.js) for incoming texts and outgoing texts
+5. API
+6. Front Page UI design
+7. iPhone/Android
